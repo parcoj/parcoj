@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parcoj
 - 👀 I’m interested in backend
-- 🌱 I’m currently learning java, GIT, Spring, MySQL
+- 🌱 I’m currently learning Java, GIT, Spring, MySQL
 - 📫 How to reach me Discord .parco
 
 <!---
